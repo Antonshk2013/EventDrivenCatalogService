@@ -1,0 +1,43 @@
+{
+  "categories":[
+    {
+      "name": "Комп'ютери та ноутбуки",
+      "description": "Комп'ютери та ноутбуки"
+    },
+    {
+      "name": "Смартфони, ТВ і Електроніка",
+      "description": "Смартфони, ТВ і Електроніка"
+    },
+    {
+      "name": "Товари для геймерів",
+      "description": "Товари для геймерів"
+    }
+  ],
+  "brands": [
+    {
+      "name":"lenovo",
+      "logo": "https://content2.rozetka.com.ua/constructor/images_site/original/458500156.jpg",
+      "description": "Lenovo Group Limited, trading as Lenovo (/ləˈnoʊvoʊ/ lə-NOH-voh, Chinese: 联想; pinyin: Liánxiǎng), is a Chinese[9] multinational technology company specializing in designing, manufacturing, and marketing consumer electronics, personal computers, software, servers, converged and hyperconverged infrastructure solutions, and related services.[5] Its global headquarters are in Beijing, China, and Morrisville, North Carolina, United States;[3][4] it has research centers at these locations, elsewhere in China, Hong Kong and Taiwan, in Stuttgart, Germany, and in Yamato, Kanagawa, Japan.["
+    },
+    {
+      "name":"Samsung",
+      "logo": "https://content1.rozetka.com.ua/constructor/images_site/original/458500157.jpg",
+      "description": "Samsung Group[1] (Korean: 삼성; [samsʌŋ]; stylised as SΛMSUNG) is a South Korean multinational manufacturing conglomerate headquartered in the Samsung Town office complex in Seoul. The group consists of numerous affiliated businesses,[2] most of which operate under the Samsung brand, and is the largest chaebol (business conglomerate) in South Korea. As of 2024, Samsung has the world's fifth-highest brand value.[3]"
+    },
+    {
+      "name":"Apple",
+      "logo": "https://content.rozetka.com.ua/constructor/images_site/original/458500152.jpg",
+      "description": "An apple is a round, edible fruit produced by an apple tree (Malus spp.). Fruit trees of the orchard or domestic apple (Malus domestica), the most widely grown in the genus, are cultivated worldwide. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia before they were introduced to North America by European colonists. Apples have cultural significance in many mythologies (including Norse and Greek) and religions (such as Christianity in Europe)."
+    },
+    {
+      "name":"Asus",
+      "logo": "https://content.rozetka.com.ua/constructor/images_site/original/458500153.jpg",
+      "description": "ASUSTeK Computer Inc. (/ˈeɪsuːs/,[3] /eɪˈsuːs/,[4] /ɑːˈ-/,[5] /əˈ-/;[6] stylized as ASUSTeK or ASUS) is a Taiwanese[7] multinational computer, phone hardware and electronics manufacturer headquartered in Beitou District, Taipei, Taiwan. Its products include desktop computers, laptops, netbooks, mobile phones, networking equipment, monitors, Wi-Fi routers, projectors, motherboards, graphics cards, optical storage, multimedia products, peripherals, wearables, servers, workstations and tablet PCs. The company is also an original equipment manufacturer (OEM)."
+    },
+    {
+      "name":"Dell",
+      "logo": "https://content1.rozetka.com.ua/constructor/images_site/original/458573442.png",
+      "description": "Dell Inc. is an American technology company that develops, sells, repairs, and supports personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals including printers and webcams among other products and services. Dell is based in Round Rock, Texas."
+    }
+  ]
+}
