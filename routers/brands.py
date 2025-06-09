@@ -56,6 +56,6 @@ async def get_brand(
     brand = result.scalars().first()
 
     if not brand:
-        raise HTTPException(status_code=404, detail="Категория не найдена")
+        raise HTTPException(status_code=404, detail="Бренд не найдена")
 
     return brand

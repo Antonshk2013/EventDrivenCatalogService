@@ -39,5 +39,39 @@
       "logo": "https://content1.rozetka.com.ua/constructor/images_site/original/458573442.png",
       "description": "Dell Inc. is an American technology company that develops, sells, repairs, and supports personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals including printers and webcams among other products and services. Dell is based in Round Rock, Texas."
     }
+  ],
+  "specifications": [
+    {
+      "name": "Серія",
+      "specific_type": "text"
+    },
+    {
+      "name": "Операційна система",
+      "specific_type": "text"
+    },
+    {
+      "name": "Процесор",
+      "specific_type": "text"
+    },
+    {
+      "name": "Покоління процесора Intel",
+      "specific_type": "text"
+    },
+    {
+      "name": "Виробник відеокарти",
+      "specific_type": "text"
+    },
+    {
+      "name": "Ємність акумулятора, Вт год",
+      "specific_type": "int"
+    },
+    {
+      "name": "Вага, кг",
+      "specific_type": "float"
+    },
+    {
+      "name": "Можливысть повернення податку з товару",
+      "specific_type": "bool"
+    }
   ]
 }

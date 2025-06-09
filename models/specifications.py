@@ -3,7 +3,7 @@ from database import Base
 from enum import Enum
 
 
-class Specifications(Base):
+class Specification(Base):
     __tablename__ = 'specifications'
 
     id = Column(Integer, primary_key=True, autoincrement=True)

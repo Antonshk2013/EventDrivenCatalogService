@@ -12,6 +12,7 @@ class Category(Base):
     description = Column(Text, nullable=True)
     image = Column(String(255), nullable=True) 
     parent = relationship("Category", remote_side=[id], backref="children")
+    products = relationship("Product", back_populates="category")
 
     def __repr__(self):
         return f"<Category(id={self.id}, name={self.name})>"
